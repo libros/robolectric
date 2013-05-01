@@ -346,7 +346,7 @@ public class ShadowApplication extends ShadowContextWrapper {
     }
 
     /**
-     * Non-Android accessor (and a handy way to get a working {@code ResourceLoader}
+     * Non-Android accessor (and a basic way to get a working {@code ResourceLoader}
      *
      * @return the {@code ResourceLoader} associated with this Application
      */
